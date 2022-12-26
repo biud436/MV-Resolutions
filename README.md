@@ -1,8 +1,6 @@
 # Introduction
 
-This repository is the archive.
-
-**❗️It is not maintained anymore❗️**
+**❗️This repository is not maintained anymore❗️**
 
 # How to setup?
 
