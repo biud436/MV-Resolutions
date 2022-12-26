@@ -6,7 +6,7 @@
 
 ## Windows
 
-Run the file called 'latest.cmd', then the main library will be located at **./bin/v9.11.1-winDisplaySettings-x64.node**
+Run the file called `latest.cmd`, then the main library will be located at **./bin/v9.11.1-winDisplaySettings-x64.node**
 
 if you are a versions of the RPG Maker MV is to 1.5.2 or less, you can call below code so you change the build config. As you can see, it would add the version number of used node in the node library file prefix.
 
@@ -28,6 +28,10 @@ However, To achieve this, you don't need to compile directly. That's because you
 
 if you have the library called \*.node already, please place it under your **/js/libs directory** and then
 insert the plugin called **"RS_ScreenManager.js"** in your Plugin Manager.
+
+## MacOS and Linux
+
+it is not supported yet.
 
 # Dependencies
 
