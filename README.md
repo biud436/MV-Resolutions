@@ -31,7 +31,7 @@ insert the plugin called **"RS_ScreenManager.js"** in your Plugin Manager.
 
 ## MacOS and Linux
 
-it is not supported yet.
+They are not supported yet.
 
 # Dependencies
 
