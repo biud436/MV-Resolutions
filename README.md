@@ -36,3 +36,15 @@ insert the plugin called **"RS_ScreenManager.js"** in your Plugin Manager.
 # Supports
 
 This plugin works fine only in RPG Maker MV 1.6.1 or above. and then this is just one platform in mind.
+
+# Releases
+
+-   🌡️ RS_ScreenManager.js v1.1.2 (Standard)
+
+    -   [RS_ScreenManager.js v1.1.2](https://github.com/biud436/MV-Resolutions/blob/main/RS_ScreenManager.js)
+
+-   ❗️ RS_ScreenManager.js v1.0.22 (Legacy)
+
+    -   [RS_ScreenManager.js](https://github.com/biud436/MV-Resolutions/raw/main/dist/RS_ScreenManager.js)
+    -   [RS_ScreenManager.js.map](https://github.com/biud436/MV-Resolutions/raw/main/dist/RS_ScreenManager.js.map)
+    -   \*.node (means the DLL file on Windows) file required
