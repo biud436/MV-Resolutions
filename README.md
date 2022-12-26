@@ -27,6 +27,12 @@ However, To achieve this, you don't need to compile directly. That's because you
 if you have the library called \*.node already, please place it under your **/js/libs directory** and then
 insert the plugin called **"RS_ScreenManager.js"** in your Plugin Manager.
 
+# Dependencies
+
+-   Microsoft Visual Studio (2015 or above)
+-   [Native Abstractions for Node.js](https://github.com/nodejs/nan)
+-   nw-gyp and node-gyp
+
 # Supports
 
 This plugin works fine only in RPG Maker MV 1.6.1 or above. and then this is just one platform in mind.
